@@ -1,8 +1,5 @@
 package com.nicolas.url_shortener.dto;
 
-import lombok.Getter;
-import lombok.Setter;
-
 import java.time.LocalDateTime;
 
 public class UrlResponseDTO {
